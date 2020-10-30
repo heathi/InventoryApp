@@ -19,7 +19,7 @@ A WPF Inventory Demo App with a Material Design theme.
  * Load inventory on startup
  * Save inventory when changes are made
  * Add inventory
- * Edit invetory
+ * Edit inventory
 
 ### Built With
 
