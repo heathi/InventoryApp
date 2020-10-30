@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Item>
+		<Name>iPhone 12</Name>
+		<Description>The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device.</Description>
+		<Count>23</Count>
+		<Cost>399.99</Cost>
+		<Price>499.99</Price>
+	</Item>
+	<Item>
+		<Name>Pixel 5</Name>
+		<Description>A more affordable 5G phone with some flagship-level features manufactured by Google.</Description>
+		<Count>70</Count>
+		<Cost>459.99</Cost>
+		<Price>599.99</Price>
+	</Item>
+	<Item>
+		<Name>Pixel 4a</Name>
+		<Description>A more affordable phone with some flagship-level features manufactured by Google.</Description>
+		<Count>5</Count>
+		<Cost>459.99</Cost>
+		<Price>599.99</Price>
+	</Item>
+	<Item>
+		<Name>Pixel 4</Name>
+		<Description>A more affordable phone with some flagship-level features manufactured by Google.</Description>
+		<Count>3</Count>
+		<Cost>459.99</Cost>
+		<Price>599.99</Price>
+	</Item>
+</ArrayOfItem>
